@@ -1,0 +1,14 @@
+{
+  "name": "sass-grid-system",
+  "version": "1.0.0",
+  "description": "Simple grid system build in sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/app.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
